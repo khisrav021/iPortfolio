@@ -1,7 +1,8 @@
 import styled from "styled-components";
 
 export const AboutCard = styled.div`
-margin-left: 400px;
+/* margin-left: 400px; */
+    margin-left: 20px;
 h1{
     color: #173B6C;
     font-size: 50px;

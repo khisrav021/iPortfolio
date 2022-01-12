@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const ResumeCard = styled.div`
 margin-top: 50px;
-margin-left: 400px;
+    margin-left: 20px;
 h1{
     color: #173B6C;
     font-size: 50px;

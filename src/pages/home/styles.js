@@ -5,7 +5,7 @@ export const BackgroundImageDiv = styled.div`
 background: url(${BackgroundImage}) no-repeat;
 width: 1178px;
 height: 694px;
-margin-left: 340px;
+/* margin-left: 340px; */
 color: white;
 text-align: center;
 h1{

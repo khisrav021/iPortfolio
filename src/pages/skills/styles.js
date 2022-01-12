@@ -2,12 +2,15 @@ import styled from "styled-components";
 
 export const SkillsCard = styled.div`
 margin-top: 50px;
-margin-left: 400px;
-h1,h2{
+/* margin-left: 400px; */
+h1{
     color: #173B6C;
     font-size: 50px;
+    margin-left: 20px;
 }
 h2{
+    color: #173B6C;
+    font-size: 50px;
     padding-left: 400px;
 }
 hr{
@@ -15,6 +18,7 @@ hr{
     height: 3px;
     background-color: #149DDD;
     margin-right: 1100px;
+    margin-left: 20px;
 }
 `
 
