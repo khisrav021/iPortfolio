@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/iportfolio/static/css/main.2f926038.chunk.css",
+    "main.js": "/iportfolio/static/js/main.bb5abc8b.chunk.js",
+    "main.js.map": "/iportfolio/static/js/main.bb5abc8b.chunk.js.map",
+    "runtime-main.js": "/iportfolio/static/js/runtime-main.ded3daa3.js",
+    "runtime-main.js.map": "/iportfolio/static/js/runtime-main.ded3daa3.js.map",
+    "static/js/2.2c6d7da4.chunk.js": "/iportfolio/static/js/2.2c6d7da4.chunk.js",
+    "static/js/2.2c6d7da4.chunk.js.map": "/iportfolio/static/js/2.2c6d7da4.chunk.js.map",
+    "static/js/3.d96ed095.chunk.js": "/iportfolio/static/js/3.d96ed095.chunk.js",
+    "static/js/3.d96ed095.chunk.js.map": "/iportfolio/static/js/3.d96ed095.chunk.js.map",
+    "index.html": "/iportfolio/index.html",
+    "static/css/main.2f926038.chunk.css.map": "/iportfolio/static/css/main.2f926038.chunk.css.map",
+    "static/js/2.2c6d7da4.chunk.js.LICENSE.txt": "/iportfolio/static/js/2.2c6d7da4.chunk.js.LICENSE.txt",
+    "static/media/BackgroundImage.00b78806.jpg": "/iportfolio/static/media/BackgroundImage.00b78806.jpg",
+    "static/media/about.c242312f.svg": "/iportfolio/static/media/about.c242312f.svg",
+    "static/media/avatarIPortfolio.fcf83e44.jpg": "/iportfolio/static/media/avatarIPortfolio.fcf83e44.jpg",
+    "static/media/facebook.395d9241.svg": "/iportfolio/static/media/facebook.395d9241.svg",
+    "static/media/home.b0189fdb.svg": "/iportfolio/static/media/home.b0189fdb.svg",
+    "static/media/instagram.e5adfa9e.svg": "/iportfolio/static/media/instagram.e5adfa9e.svg",
+    "static/media/linkedin.7bceac1e.svg": "/iportfolio/static/media/linkedin.7bceac1e.svg",
+    "static/media/logo.6ce24c58.svg": "/iportfolio/static/media/logo.6ce24c58.svg",
+    "static/media/portfolio-1.88a9e074.jpg": "/iportfolio/static/media/portfolio-1.88a9e074.jpg",
+    "static/media/portfolio.2eee18ed.svg": "/iportfolio/static/media/portfolio.2eee18ed.svg",
+    "static/media/resume.af3c6aa4.svg": "/iportfolio/static/media/resume.af3c6aa4.svg",
+    "static/media/telegram.48117ec2.svg": "/iportfolio/static/media/telegram.48117ec2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ded3daa3.js",
+    "static/js/2.2c6d7da4.chunk.js",
+    "static/css/main.2f926038.chunk.css",
+    "static/js/main.bb5abc8b.chunk.js"
+  ]
+}
